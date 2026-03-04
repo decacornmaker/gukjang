@@ -33,6 +33,17 @@
     "collectedAt": "2026-02-27T06:43:46.599657+00:00"
   },
   {
+    "id": "b9b498a8317a1be2",
+    "keyword": "중일갈등",
+    "title": "춘제 기간 中 관광객 방문지 1위 태국…중일 갈등에 일본행 '반토막' - 뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mZTB6MjhqUUNqQzVSSGpkVnlUTmYxdTc5UjJRb05EZTNNUWNtcXpVRHFaLVVqcm1kWHFfNnF6eFdCZC1KNklsUXlhN3lVMDlMVTBLSUtsZWNwS0h0ZVhEdQ",
+    "source": "뉴시스",
+    "publishedAt": "2026-02-26T00:28:51+00:00",
+    "date": "2026-02-26",
+    "snippet": "춘제 기간 中 관광객 방문지 1위 태국…중일 갈등에 일본행 '반토막'&nbsp;&nbsp;뉴시스",
+    "collectedAt": "2026-03-04T18:39:15.509199+00:00"
+  },
+  {
     "id": "67bc2a61016d9bc0",
     "keyword": "중일갈등",
     "title": "중일 갈등에 반사이익? 부산 출‧도착 크루즈 여행 시대 포문 - 여행신문",
@@ -627,6 +638,17 @@
     "collectedAt": "2026-03-03T12:40:22.525821+00:00"
   },
   {
+    "id": "e05f93920ff7ab16",
+    "keyword": "중일갈등",
+    "title": "'중일갈등'에 춘제 특수 실종…동남아로 눈돌린 日업계 - v.daum.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OeVdGUXctUzBkTGVSWHVZaDd2blQ4NnNmLVBnV2p5MTBXeERJMHhnbGdiMXFHM3FsMUpEV2ZQd3M0N3J6SHFsUlpEQWc3bjhwc0wxMA",
+    "source": "v.daum.net",
+    "publishedAt": "2026-02-13T08:00:00+00:00",
+    "date": "2026-02-13",
+    "snippet": "'중일갈등'에 춘제 특수 실종…동남아로 눈돌린 日업계&nbsp;&nbsp;v.daum.net",
+    "collectedAt": "2026-03-04T18:39:15.509412+00:00"
+  },
+  {
     "id": "c690b70a539b58fb",
     "keyword": "중일갈등",
     "title": "중일 갈등 더 고조되나…日, 4년만에 中어선 나포·선장 체포(종합2보) - 네이트",
@@ -856,60 +878,5 @@
     "date": "2026-02-13",
     "snippet": "일본, 나가사키 앞바다서 중국 어선 나포…중일 갈등 악화되나?&nbsp;&nbsp;KBS 뉴스",
     "collectedAt": "2026-02-13T18:38:17.314157+00:00"
-  },
-  {
-    "id": "0481d51e610c0db2",
-    "keyword": "중일갈등",
-    "title": "일본, 나가사키 앞바다서 중국 어선 나포…중일 갈등 악화되나? - v.daum.net",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqQTlOZkgyZ3ZEaF9NZC1IN2NIb19SVEZVM0h4SEZZZ1lLcGZidnlCcGxHMmtMMUVNSURpcl9wbUlfODQwX3lKRnpBTFVuNFJDT3o3ag",
-    "source": "v.daum.net",
-    "publishedAt": "2026-02-13T00:57:26+00:00",
-    "date": "2026-02-13",
-    "snippet": "일본, 나가사키 앞바다서 중국 어선 나포…중일 갈등 악화되나?&nbsp;&nbsp;v.daum.net",
-    "collectedAt": "2026-02-16T18:34:40.426316+00:00"
-  },
-  {
-    "id": "5228d4aee74d2c8b",
-    "keyword": "중일갈등",
-    "title": "중일 갈등 트리거?…日, 나가사키 앞바다서 中어선 나포 - 네이트",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YY0MwRE5iMTFmYUhpN05KTFR0YlpEMDBVZ2RvTi1LdDE0bVF2YTVfenkwUmNRQ0FzODN3emprZDlOMmd3UFVuMHZHOFdRTU9XZ1Nj",
-    "source": "네이트",
-    "publishedAt": "2026-02-13T00:52:00+00:00",
-    "date": "2026-02-13",
-    "snippet": "중일 갈등 트리거?…日, 나가사키 앞바다서 中어선 나포&nbsp;&nbsp;네이트",
-    "collectedAt": "2026-02-13T01:46:14.751604+00:00"
-  },
-  {
-    "id": "a2d065bc124a5dea",
-    "keyword": "중일갈등",
-    "title": "日, 나가사키 앞바다서 中어선 나포·억류…중일관계 또 시험대 - 뉴스웍스",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83SDJMWl9RV2Z4QjJlTnBCZWE0dE9RYnhCZGNRU2RqNmZ2TWtreE93aDByQVkyXzhoQjJzemh5R1hmU2h4M1d5SlBfbklFeXF1bzZ6cUt0b0ZXSmVNYzl6bXZ4b0ZRR1ZaTDRQOGItZ9IBc0FVX3lxTFAzRWVCWTI5R1p1LWx3aU1tZ044R1JzMXN5N1lielVDRWJKd0FuNjhnajZzNkxkWFFfMnE0Z3pyOTNoWXE1b01vNzQtak1qTGI4dzRMcURxdmgtSmRqWUhRNXNINVJIYWwyb0FSVVVHcXFHcTQ",
-    "source": "뉴스웍스",
-    "publishedAt": "2026-02-13T00:50:39+00:00",
-    "date": "2026-02-13",
-    "snippet": "日, 나가사키 앞바다서 中어선 나포·억류…중일관계 또 시험대&nbsp;&nbsp;뉴스웍스",
-    "collectedAt": "2026-02-18T12:51:02.399368+00:00"
-  },
-  {
-    "id": "1cd3beddcb98063a",
-    "keyword": "중일갈등",
-    "title": "일본, 나가사키 앞바다서 중국 어선 나포…중일 갈등 악화되나? - KBS 뉴스",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aMzZ6bm54MVhDRjBwV3lPN3RTMWpoektXdlI4eF90b2djZHZZaDVQazJaWE5rcVFveWQ4dERQc3lHaVJHNWlFbjFlLXlZM2pDcW9mRVQtelRWcTg",
-    "source": "KBS 뉴스",
-    "publishedAt": "2026-02-13T00:50:00+00:00",
-    "date": "2026-02-13",
-    "snippet": "일본, 나가사키 앞바다서 중국 어선 나포…중일 갈등 악화되나?&nbsp;&nbsp;KBS 뉴스",
-    "collectedAt": "2026-02-18T12:51:02.398833+00:00"
-  },
-  {
-    "id": "7643333d474c50d0",
-    "keyword": "중일갈등",
-    "title": "\"日다카이치, 다음달 방한 조율\"…中어선 나포로 중일긴장 고조? - 연합뉴스",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MUJkZnZxUmp4VmhkOUdHVEJwa0pNWWUxaFNoazV0Qk1tOTd4emVmNldZbmZoZHVEYk83cGtJSXRBdkFvS0dBSDdnbEpKVDdkV0ZLX182WEI0LWwzTTdrUNIBYEFVX3lxTFA0MUJkZnZxUmp4VmhkOUdHVEJwa0pNWWUxaFNoazV0Qk1tOTd4emVmNldZbmZoZHVEYk83cGtJSXRBdkFvS0dBSDdnbEpKVDdkV0ZLX182WEI0LWwzTTdrUA",
-    "source": "연합뉴스",
-    "publishedAt": "2026-02-13T00:48:37+00:00",
-    "date": "2026-02-13",
-    "snippet": "\"日다카이치, 다음달 방한 조율\"…中어선 나포로 중일긴장 고조?&nbsp;&nbsp;연합뉴스",
-    "collectedAt": "2026-02-14T12:33:54.399747+00:00"
   }
 ]
